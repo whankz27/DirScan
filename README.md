@@ -1,5 +1,5 @@
 # DirScan
-usage: directory_scanner.py [-h] [-u URL] -w WORDLIST [-o OUTPUT] [-m {GET,POST}] [-l LIST]
+usage: start.py [-h] [-u URL] -w WORDLIST [-o OUTPUT] [-m {GET,POST}] [-l LIST]
 
 Directory Scanner for Web Application Testing
 
